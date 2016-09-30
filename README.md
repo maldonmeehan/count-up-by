@@ -1,12 +1,30 @@
-# _{Count Up By}_
+# _Count Up By_
 
 #### _{Brief description of application}, {06.06.2016}_
 
-#### By _**{Maldon Meehan & Stephanie }**_
+#### By _**{Maldon Meehan & Stephanie Gurung }**_
 
 ## Description
+Count Up By
+Create a program that takes two numbers - one to count to and another to determine what multiple to use to get there.
 
-_{This project was to create a program that takes two numbers - one to count to and another to determine what multiple to use to get there. }_
+Here is some sample input: 
+Count to: 30 
+Count by: 5 
+Output: 5, 10, 15, 20, 25, 30 
+
+Count to: 50 
+Count by: 7 
+Output: 7, 14, 21, 28, 35, 42, 49
+
+Don't forget to consider how to handle any input that might be submitted:
+
+empty values (user just presses enter)
+non-numeric values
+negative numbers
+count by number is larger than the count to numbers
+
+https://www.learnhowtoprogram.com/intro-to-programming/arrays-looping/practice-looping-with-for
 
 ## Setup/Installation Requirements
 
@@ -19,16 +37,19 @@ _{This project was to create a program that takes two numbers - one to count to 
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+no know bugs at this time.
 
 ## Support and contact details
 
-_{Please contact Maldon Meehan for questions or concerns}_
+_Please contact us for questions or concerns_
 
 ## Technologies Used
 
-_{The technologies used are HTML, JavaScript, jquery, bootstrap}_
+* HTML 
+* JavaScript 
+* jquery 
+* bootstrap
 
 ### License
 
-Copyright (c) 2016 **_{Maldon Meehan Epicodus}_**
+Copyright (c) 2016 **_Maldon Meehan & Stephanie Gurung, Epicodus_**
