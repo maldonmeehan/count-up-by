@@ -2,7 +2,7 @@
 
 #### _A site that takes two numbers, one to coutn and another to determine what multiple to use to get there, 06.06.2016_
 
-#### By _**{Maldon Meehan & Stephanie Gurung }**_
+#### By _**Maldon Meehan & Stephanie Gurung**_
 
 ## Description
 Count Up By
