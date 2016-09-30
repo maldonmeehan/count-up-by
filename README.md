@@ -1,6 +1,6 @@
 # _Count Up By_
 
-#### _{Brief description of application}, {06.06.2016}_
+#### _A site that takes two numbers, one to coutn and another to determine what multiple to use to get there, 06.06.2016_
 
 #### By _**{Maldon Meehan & Stephanie Gurung }**_
 
